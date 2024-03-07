@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+} 
+
+h1, p {
+    background-color: rgb(227, 222, 222) ;
+}
+
+ul {
+    background-color: rgb(241, 236, 227);
+} 
